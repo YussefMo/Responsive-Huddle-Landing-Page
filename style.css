@@ -15,7 +15,7 @@
 }
 body
 {
-    background: url(/images/bg-desktop.svg) no-repeat , #674bb1;
+    background: url(./images/bg-desktop.svg) no-repeat , #674bb1;
     background-size: contain;
     font-family: "Open Sans", sans-serif;
     height: 100vh;
