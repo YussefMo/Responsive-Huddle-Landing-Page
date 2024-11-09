@@ -119,7 +119,7 @@ a
     }
     body
     {
-        background: url(/images/bg-mobile.svg) no-repeat , #674bb1;
+        background: url(./images/bg-mobile.svg) no-repeat , #674bb1;
     }
     .mainrow
     {
