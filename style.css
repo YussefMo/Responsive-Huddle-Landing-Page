@@ -236,12 +236,3 @@ a
         width: 45%;
     }
 }
-@media screen and (min-width:500px) and (max-width:1400px)
-{
-    .bento-grid
-    {
-        margin: 0;
-        width: 95vw;
-        margin: 5% 2.5%;
-    }
-}
